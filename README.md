@@ -13,6 +13,7 @@ Este é um projeto para treinar habilidades em UML e java, projeto este bem simp
 * **Métodos:** `exibirPagina(String url)`, `adicionarNovaAba()`, `atualizarPagina()`
 
 > Diagrama
-[Diagrama UML](./Iphone.png)
+> 
+<img src="./Iphone.png" alt="Diagrama UML" width="600">
 
 > Ao explorar o repositório você encontrará a implementação das classes em Java.
